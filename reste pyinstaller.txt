@@ -1,0 +1,1 @@
+pyinstaller --noconsole --name="Imagens" --add-data="imgs\*.png;imgs" --onefile aula6.py
